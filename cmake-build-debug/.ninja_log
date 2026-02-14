@@ -1,16 +1,21 @@
 # ninja log v6
+13313	17045	7927803624995223	lib/libgtest.a	aba5e8d028d88fa1
+5096	5778	7927803542833692	CMakeFiles/run_tests.dir/src/task.cpp.obj	6560b0e90ca5212d
+104	5186	7927803492918517	CMakeFiles/run_tests.dir/test/task_test.cpp.obj	b99a6e31d6fceb86
 22	848	7927798556432055	CMakeFiles/ToDoList_Project.dir/main.cpp.obj	98b3818ff6bf36d
+94	5093	7927803492813943	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	9d6d95e02501bc7e
 77	656	7927795469948804	CMakeFiles/ToDoList_Project.dir/src/task.cpp.obj	2a4971a0abb5427c
 849	1134	7927798564686144	ToDoList_Project.exe	5b912854825d3fcf
 86	984	7927795470035261	CMakeFiles/ToDoList_Project.dir/src/todo_list.cpp.obj	ff08f5172a576821
-27	477	7927803487595829	build.ninja	dc3ed35338ce024d
-5	2647	7927803487595829	build.ninja	dc3ed35338ce024d
-94	5093	7927803492813943	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	9d6d95e02501bc7e
-104	5186	7927803492918517	CMakeFiles/run_tests.dir/test/task_test.cpp.obj	b99a6e31d6fceb86
-5096	5778	7927803542833692	CMakeFiles/run_tests.dir/src/task.cpp.obj	6560b0e90ca5212d
+5	2647	7927912098054520	build.ninja	dc3ed35338ce024d
 78	13309	7927803492660470	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f2435d8c225b521f
-13313	17045	7927803624995223	lib/libgtest.a	aba5e8d028d88fa1
 17045	17195	7927803662311457	lib/libgtest_main.a	cea6d0a64475bb09
 17195	22664	7927803718337401	run_tests.exe	4dd4400dc6979f6
 17195	22664	7927803718337401	run_tests[1]_tests.cmake	4dd4400dc6979f6
 17195	22664	7927803718337401	C:/Users/alami/CLionProjects/ToDoList_Project/cmake-build-debug/run_tests[1]_tests.cmake	4dd4400dc6979f6
+6	1504	7927912098054520	build.ninja	dc3ed35338ce024d
+25	997	7927912342611158	CMakeFiles/run_tests.dir/src/todo_list.cpp.obj	fda3e66b720d7cc5
+11	2452	7927912796958597	CMakeFiles/run_tests.dir/test/task_test.cpp.obj	b99a6e31d6fceb86
+2453	6068	7927912857414197	run_tests.exe	aa56dc2bd4287e28
+2453	6068	7927912857414197	run_tests[1]_tests.cmake	aa56dc2bd4287e28
+2453	6068	7927912857414197	C:/Users/alami/CLionProjects/ToDoList_Project/cmake-build-debug/run_tests[1]_tests.cmake	aa56dc2bd4287e28
