@@ -1,0 +1,5 @@
+add_test([=[TaskTest.Constructor]=]  C:/Users/alami/CLionProjects/ToDoList_Project/cmake-build-debug/run_tests.exe [==[--gtest_filter=TaskTest.Constructor]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[TaskTest.Constructor]=]  PROPERTIES WORKING_DIRECTORY C:/Users/alami/CLionProjects/ToDoList_Project/cmake-build-debug SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[TaskTest.CompleteTask]=]  C:/Users/alami/CLionProjects/ToDoList_Project/cmake-build-debug/run_tests.exe [==[--gtest_filter=TaskTest.CompleteTask]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[TaskTest.CompleteTask]=]  PROPERTIES WORKING_DIRECTORY C:/Users/alami/CLionProjects/ToDoList_Project/cmake-build-debug SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  run_tests_TESTS TaskTest.Constructor TaskTest.CompleteTask)
